@@ -5,6 +5,7 @@ class Customer
     String name
     String email
     void login(email,password)
+    
 }
 class Store
 {
