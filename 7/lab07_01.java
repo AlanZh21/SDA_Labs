@@ -2,10 +2,17 @@
 
 class Customer
 {
+<<<<<<< HEAD
     + name : String 
     - email : String
     - password : String
     changePassword(pass)
+=======
+    String name
+    String email
+    void login(email,password)
+    
+>>>>>>> 89789653c78d68d9cecf61533381ee1543caf2f1
 }
 class Store
 {
